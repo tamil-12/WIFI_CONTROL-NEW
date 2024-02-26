@@ -1,0 +1,11 @@
+{
+  "name": "wifi",
+  "displayName": "wifi",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "af893839-3583-4ad0-af64-d5bfb43a7c3d"
+      }
+    }
+  }
+}
